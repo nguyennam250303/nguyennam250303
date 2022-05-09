@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @nguyennam250303
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nguyen Ngoc Nam
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Google, Apple and so on
+- 📫 How to reach me by
+FB:http://fb.com/Namm1204
+Mail:nguyennam250303@gmail.com
 
 <!---
 nguyennam250303/nguyennam250303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
